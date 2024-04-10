@@ -1,0 +1,38 @@
+@charset "utf-8";
+/* CSS Document */
+.textInput input {
+        float: left;
+    }
+
+    #outer {
+        width: 100%;
+        display: flex;
+        justify-content: center;
+    }
+
+
+    /* Header/Logo Title */
+    .header {
+        padding: 1%;
+        text-align: center;
+        background: #00AAE7;
+        color: white;
+        font-size: 15px;
+    }
+
+    footer {
+        text-align: center;
+        padding: 3px;
+        background-color: #fee34a;
+        color: white;
+
+        bottom: 0;
+
+    }
+
+    a:link {
+        color: white;
+        background-color: transparent;
+        text-decoration: none;
+    }
+
